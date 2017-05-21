@@ -28,15 +28,15 @@ msgstr "Escribiendo"
 
 #: cms_app.py:7 cms_toolbars.py:15 templates/blog/blog_post_list.html:4
 msgid "Blog"
-msgstr "Noticias"
+msgstr "Articulos"
 
 #: cms_toolbars.py:24
 msgid "Add post"
-msgstr "Agregar noticia"
+msgstr "Agregar articulo"
 
 #: cms_toolbars.py:25
 msgid "Post list"
-msgstr "Lista de noticias"
+msgstr "Lista de articulos"
 
 #: cms_toolbars.py:29
 msgid "Add category"
@@ -76,7 +76,7 @@ msgstr "Imagen"
 
 #: models.py:42
 msgid "Post"
-msgstr "Noticia"
+msgstr "Articulo"
 
 #: models.py:43
 msgid "is publish ?"
@@ -84,8 +84,8 @@ msgstr "¿Es público?"
 
 #: models.py:46
 msgid "Blog post"
-msgstr "Noticia"
+msgstr "Articulo"
 
 #: models.py:47
 msgid "Blog posts"
-msgstr "Noticias publicadas"
+msgstr "Articulos publicados"
